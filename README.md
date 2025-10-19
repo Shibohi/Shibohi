@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shibohi
-- 👀 I’m interested in ... C#, GameDev
-- 🌱 I’m currently learning ... Godot/Gamemaker
-- 💞️ I’m looking to collaborate on ... GameDev, Visual Studio Code
+- 👀 I’m interested in ... GameDev
+- 🌱 I’m currently learning ... Godot
+- 💞️ I’m looking to collaborate on ... GameDev
 - 📫 How to reach me ... just write me a mail
 
 <!---
